@@ -38,3 +38,4 @@
 /Users/prabinmahuri/Projects/AI_Projects/PredictHousePriceBySize/obj/Debug/net8.0/PredictHousePriceBySize.pdb
 /Users/prabinmahuri/Projects/AI_Projects/PredictHousePriceBySize/obj/Debug/net8.0/PredictHousePriceBySize.genruntimeconfig.cache
 /Users/prabinmahuri/Projects/AI_Projects/PredictHousePriceBySize/obj/Debug/net8.0/ref/PredictHousePriceBySize.dll
+/Users/prabinmahuri/Projects/AI_Projects/PredictHousePriceBySize/obj/Debug/net8.0/PredictHousePriceBySize.sourcelink.json
